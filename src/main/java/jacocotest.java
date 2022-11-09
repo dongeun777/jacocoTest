@@ -7,7 +7,7 @@ public class jacocotest {
             case "펭":
                 return "하";
             case "hello":
-                return "world";
+                return "worldssss";
             default:
                 return "no one";
         }
