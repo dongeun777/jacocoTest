@@ -9,11 +9,11 @@ public class jacocotest {
             case "hello":
                 return "world";
             case "hello2":
-                return "world";
+                return "world2";
             case "hello3":
-                return "world";
+                return "world3";
             case "hello4":
-                return "world";
+                return "world4";
             default:
                 return "no one";
         }
