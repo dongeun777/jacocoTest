@@ -14,6 +14,8 @@ public class jacocotest {
                 return "world3";
             case "hello4":
                 return "world4";
+            case "hello5":
+                return "world5";
             default:
                 return "no one";
         }
