@@ -5,7 +5,7 @@ public class jacocotest {
     public String hello(String name) {
         switch (name) {
             case "펭":
-                return "하";
+                return "하이";
             case "hello":
                 return "worlssssssssssdssss";
             default:
